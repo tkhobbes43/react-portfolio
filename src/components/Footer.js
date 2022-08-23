@@ -1,5 +1,7 @@
 import React from 'react';
-import { Container, Row, Col } from 'react-bootstrap';
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 import {
     FiLinkedin,
     FiMail,
@@ -10,15 +12,15 @@ import {
 
 function Footer() {
     return (
-        <Container fluid className='footer'>
+        <Container className='footer'>
             <Row>
-                <Col md="4" className='footer-copyright'>
+                <Col className='footer-copyright'>
                     <h3>Designed and Developed by Tommy Lee</h3>
                 </Col>
-                <Col md="4" className='footer-copyright'>
+                <Col className='footer-copyright'>
                     <h3>Copyright © 2022 Tommy Lee</h3>
                 </Col>
-                <Col md="4" className='footer-body'>
+                <Col className='footer-body'>
                     <ul className='footer-icons'>    
                         <li className='social-icons'>
                             <a href="mailto: t.k.hobbes43@gmail.com">
