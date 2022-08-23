@@ -11,10 +11,10 @@ function Footer() {
     return (
         <div className='footer'>
             <div className='footer-copyright'>
-                <h3>Designed and developed by Tommy Lee</h3>
+                <h3>Designed and Developed by Tommy Lee</h3>
             </div>
             <div className='footer-copyright'>
-                <h3>Copyright © 2022</h3>
+                <h3>Copyright © 2022 Tommy Lee</h3>
             </div>
             <div className='footer-body'>
                 <li className='social-icons'>
