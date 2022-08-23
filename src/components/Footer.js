@@ -15,9 +15,6 @@ function Footer() {
         <Container className='footer'>
             <Row>
                 <Col className='footer-copyright'>
-                    <h3>Designed and Developed by Tommy Lee</h3>
-                </Col>
-                <Col className='footer-copyright'>
                     <h3>Copyright © 2022 Tommy Lee</h3>
                 </Col>
                 <Col className='footer-body'>
