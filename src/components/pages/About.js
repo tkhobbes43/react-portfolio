@@ -2,7 +2,7 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import myPic from '../../assets/images/myPic';
+import myPic from '../../assets/images/mypic.jpg';
 
 function About() {
     return (
