@@ -8,8 +8,6 @@ import {
     FiGithub,
     FiFile
 } from 'react-icons/fi';
-import './style.css';
-
 
 function Footer() {
     return (
