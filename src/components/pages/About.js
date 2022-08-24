@@ -9,7 +9,7 @@ function About() {
         <Container className='title'>
             <Row>
                 <Col>
-                <center><img src={myPic} className="my-pic" alt="Tommy-Profile"/></center>
+                <center><img src={myPic} className="my-pic" alt="Tommy's Profile"/></center>
                 </Col>
             </Row>
         </Container>
