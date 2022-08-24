@@ -8,6 +8,7 @@ import {
     FiGithub,
     FiFile
 } from 'react-icons/fi';
+import './style.css';
 
 
 function Footer() {
@@ -48,7 +49,7 @@ function Footer() {
                 </Col>
             </Row>
         </Container>
-    )
+    );
 }
 
 export default Footer;
