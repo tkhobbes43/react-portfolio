@@ -15,7 +15,7 @@ function Resume() {
                     <h2>Resume</h2>
                     <Col>
                         <p>You can download a PDF of my resume by clicking on the button below, otherwise you can find a link to a Google Doc version of it in the footer</p>
-                        
+                        <Button href="https://drive.google.com/file/d/1Iz5CMbsiP48b3Aau8c1PSz7yMwFceWai/view?usp=sharing">Download Resume</Button>
                     </Col>
                     <Col>
                         <h3>Front-End Skills</h3>
