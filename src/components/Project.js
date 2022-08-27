@@ -3,7 +3,7 @@ import React from 'react';
 function Project({ project }) {
     return (
         <div>
-            <img className="projectImage" src="{project.image}" alt="Display" />
+            <img className="projectImage" src={project.image} alt="Display" />
             <div>
                 <div>
                     {project.name}
