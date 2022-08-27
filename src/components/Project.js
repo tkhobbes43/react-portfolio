@@ -14,7 +14,7 @@ function Project({ project }) {
             </div>
             <div>
                 {project.tech.map((tech, index) => {
-                    return <span key={index}>{tech}</span>
+                    return <span key={index}>{tech}, </span>
                 })}
             </div>
         </div>

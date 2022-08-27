@@ -5,7 +5,7 @@ const projects = [
     {   
         name: "Tiny Triumphs",
         link: "https://tinytriumphs.herokuapp.com/", 
-        image: "https://github.com/tinyTriumphs/tinyTriumphs/blob/main/public/assets/images/tinyTriumps%20Homepage.png",
+        image: "/assets/tinytriumphs.png",
         tech: ["Node.js", "Express.js", "Bcrypt", "MySQL", "Sequelize", "jQuery", "Handlebars.js", "Moment.js", "Multer"]
     }, 
     {   
