@@ -6,6 +6,7 @@ import WeatherDashboard from '../../assets/images/weather-dashboard.PNG';
 import MyWorkDayScheduler from '../../assets/images/my-work-day-scheduler.PNG';
 import TextEditor from '../../assets/images/text-editor.png';
 import MySocialNetworkAPI from '../../assets/images/Capture.PNG';
+import Grid from '@mui/material/Grid';
 
 const projects = [
     {   
@@ -49,12 +50,23 @@ const projects = [
 function Portfolio() {
     return (
         <>
-            <h2>Portfolio</h2>
-            <div>
-                {projects.map((project, index) => (
-                    <Project project={project} key={index}/>
-                ))}
-            </div>
+        <Grid
+            container
+            direction="row"
+            alignItems="center"
+            justifyContent="center"
+        ><h2>Portfolio</h2></Grid>
+        <Grid
+            container
+            columnSpacing={ 2 }
+            direction="row"
+            alignItems="stretch"
+            justifyContent="center"
+        >
+            {projects.map((project, index) => (
+                <Project project={project} key={index}/>
+            ))}
+        </Grid>
         </>
     );
 }
