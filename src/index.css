@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  font-family: 'Source Serif Pro', serif;
+}
+
+h2 {
+  font-family: 'Source Serif Pro', serif;
+}
+
+h3 {
+  font-family: 'Source Serif Pro', serif;
+}
+
+.project {
+  font-family: 'Source Serif Pro', serif;
+}
+
+.project-tech {
+  font-family: 'Source Serif Pro', serif;
+}
