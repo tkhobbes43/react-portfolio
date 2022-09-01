@@ -28,6 +28,10 @@ h3 {
   font-family: 'Source Serif Pro', serif;
 }
 
+.project-card {
+  margin: 1em;
+}
+
 .project-tech {
   font-family: 'Source Serif Pro', serif;
   border: 1px solid white;
@@ -36,4 +40,8 @@ h3 {
   display: inline-block;
   color: white;
   background-color: black;
+}
+
+.project-button {
+  float: inherit;
 }

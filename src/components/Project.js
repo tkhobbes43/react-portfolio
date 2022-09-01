@@ -4,7 +4,7 @@ import Card from 'react-bootstrap/Card';
 
 function Project({ project }) {
     return (
-        <Card style={{ width: '18rem' }}>
+        <Card className="project-card" style={{ width: '18rem' }}>
             <Card.Img variant="top" src={project.image} alt="Display" />
             <Card.Body>
                 <Card.Title className="project">{project.name}</Card.Title>
@@ -13,7 +13,7 @@ function Project({ project }) {
                     return <span className="project-tech"key={index}>{tech}</span>
                 })} 
                 </Card.Text>
-                <Button variant="link">{project.link}</Button>
+                <Button className="project-button" variant="primary" href={project.link}>Link to deployed app</Button>
             </Card.Body>
         </Card>
     );
