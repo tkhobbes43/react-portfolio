@@ -10,7 +10,7 @@ function About() {
             <Row>
                 <h2>About Me</h2>
                 <Col>
-                    <p>Hello, my name is Tommy Lee. No I am not the famous drummer most famously dated an actress who played a TV lifeguard.  This Tommy Lee is from Schaumburg, IL, and I am an aspiring full stack web developer who wants to build more intuitive user experiences on the web.
+                    <p>Hello, my name is Tommy Lee. No, I am not the famous drummer most famously dated an actress who played a TV lifeguard.  This Tommy Lee is from Schaumburg, IL, and I am an aspiring full stack web developer who wants to build more intuitive user experiences on the web.
                     </p>
                     <p>I am currently attending Northwestern University's Coding Bootcamp to earn a certificate in full stack web development.  With my newly developed skills, I hope to start fresh and gain as much insight as I possibly can.
                     </p>
