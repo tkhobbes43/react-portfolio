@@ -14,8 +14,8 @@ Not only that, this portfolio will also be a good way for me to share my work wi
 - [Acceptance Criteria](#acceptance_criteria)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Tests](#tests)
+- [Credit](#credit)
 - [Questions](#questions)
 
 ## User Story
@@ -89,6 +89,8 @@ If you wanted to run tests, first you would have to fork my repo.  Then in the c
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+## Credit
+I want to credit [@cure_pixel](https://twitter.com/cure_pixel) on Twitter for their pixel art that I used in this portfolio.
 ## Questions
 For any questions or concerns, contact me at either my [GitHub](https://github.com/tkhobbes43)
 or my email: t.k.hobbes43@gmail.com
