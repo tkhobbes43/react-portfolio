@@ -62,7 +62,7 @@ No Installation required, just click on the Heroku button below to take you to t
 
 ## Usage
 
-If you wanted to for this project repository, in the project directory, you can run:
+If you wanted to fork this project repository, in the project directory, you can run:
 
 ### `npm start`
 
