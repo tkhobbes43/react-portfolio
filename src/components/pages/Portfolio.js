@@ -5,10 +5,16 @@ import ProductivityTiles from '../../assets/images/ProductivityTiles.jpg';
 import WeatherDashboard from '../../assets/images/weather-dashboard.PNG';
 import MyWorkDayScheduler from '../../assets/images/my-work-day-scheduler.PNG';
 import TextEditor from '../../assets/images/text-editor.png';
-import MySocialNetworkAPI from '../../assets/images/Capture.PNG';
+import MernCaveHQ from '../../assets/images/merncavehq.png';
 import Grid from '@mui/material/Grid';
 
 const projects = [
+    {   
+        name: "MernCave HQ",
+        link: "https://merncavehq.herokuapp.com/", 
+        image: MernCaveHQ,
+        tech: ["Node.js", "Express.js", "Bcrypt", "Mongoose", "Nodemailer", "React.js", "Apollo Client", "React-Bootstrap", "Stripe", "I18next"]
+    },
     {   
         name: "Tiny Triumphs",
         link: "https://tinytriumphs.herokuapp.com/", 
@@ -38,12 +44,6 @@ const projects = [
         link: "https://rocky-brushlands-15740.herokuapp.com/",
         image: TextEditor,
         tech: ["indexedDB", "Progressive Web App", "Service Worker", "Webpack", "Workbox", "JavaScript", "Node.js", "Express.js", "Concurrently"]
-    },
-    { 
-        name: "My Social Network API",
-        link: "https://github.com/tkhobbes43/my-social-network-api",
-        image: MySocialNetworkAPI,
-        tech: ["MongoDB", "Mongoose", "JavaScript", "Node.js", "Express.js", "API Routes"]
     }
 ];
 
