@@ -39,9 +39,10 @@ h3 {
   margin: .1em;
   display: inline-block;
   color: white;
-  background-color: black;
+  background-color: #79c9f9;
 }
 
 .project-button {
   float: inherit;
+  background-color: #a1d26b;
 }
