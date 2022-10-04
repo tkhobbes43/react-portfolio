@@ -90,7 +90,7 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ## Credit
-I want to credit [@cure_pixel](https://twitter.com/cure_pixel) on Twitter for their pixel art that I used in this portfolio.
+I want to credit [https://wallpaperaccess.com/pokemon-pixel@cure_pixel](https://wallpaperaccess.com/pokemon-pixel) for their pixel art that I used in this portfolio.
 ## Questions
 For any questions or concerns, contact me at either my [GitHub](https://github.com/tkhobbes43)
 or my email: t.k.hobbes43@gmail.com
