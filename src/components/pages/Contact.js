@@ -4,6 +4,7 @@ function Contact() {
     return (
         <div>
             <h2>Contact Me</h2>
+            <p>You can always email me at t.k.hobbes43@gmail.com or fill out the below form and I will get back to you as soon as possible</p> 
             <div>
                 <form>
                     <label>Name</label><br />
