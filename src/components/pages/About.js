@@ -12,7 +12,7 @@ function About() {
                 <Col>
                     <p>Hello, my name is Tommy Lee. No, I am not the famous drummer most famously dated an actress who played a TV lifeguard.  This Tommy Lee is from Schaumburg, IL, and I am an aspiring full stack web developer who wants to build more intuitive user experiences on the web.
                     </p>
-                    <p>I am currently attending Northwestern University's Coding Bootcamp to earn a certificate in full stack web development.  With my newly developed skills, I hope to start fresh and gain as much insight as I possibly can.
+                    <p>I am a graduate of Northwestern University's Coding Bootcamp and earned a certificate in full stack web development.  With my newly developed skills, I hope to start fresh and gain as much insight as I possibly can.
                     </p>
                     <p>Known as an adaptable and motivated problem solver passionate about scalable production services and design to implement user-facing products.  I applied aspects of agile development in 2 of my main projects. I worked on a team of four for Productivity Tiles and a team of three for Tiny Triumphs.  I am excited to leverage my skills as part of a fast-paced, quality-driven team to build better experiences on the web.
                     </p>
